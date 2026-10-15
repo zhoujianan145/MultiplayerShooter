@@ -1,0 +1,11 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Platforms/
+*.log
+*.tmp
+*.bak
+.vs/
+.vscode/
